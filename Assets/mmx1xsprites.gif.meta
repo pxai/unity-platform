@@ -1,0 +1,1489 @@
+fileFormatVersion: 2
+guid: 3fdac553aff76664f86c84494601f784
+timeCreated: 1508960826
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmx1xsprites_0
+    21300002: mmx1xsprites_1
+    21300004: mmx1xsprites_2
+    21300006: mmx1xsprites_3
+    21300008: mmx1xsprites_4
+    21300010: mmx1xsprites_5
+    21300012: mmx1xsprites_6
+    21300014: mmx1xsprites_7
+    21300016: mmx1xsprites_8
+    21300018: mmx1xsprites_9
+    21300020: mmx1xsprites_10
+    21300022: mmx1xsprites_11
+    21300024: mmx1xsprites_12
+    21300026: mmx1xsprites_13
+    21300028: mmx1xsprites_14
+    21300030: mmx1xsprites_15
+    21300032: mmx1xsprites_16
+    21300034: mmx1xsprites_17
+    21300036: mmx1xsprites_18
+    21300038: mmx1xsprites_19
+    21300040: mmx1xsprites_20
+    21300042: mmx1xsprites_21
+    21300044: mmx1xsprites_22
+    21300046: mmx1xsprites_23
+    21300048: mmx1xsprites_24
+    21300050: mmx1xsprites_25
+    21300052: mmx1xsprites_26
+    21300054: mmx1xsprites_27
+    21300056: mmx1xsprites_28
+    21300058: mmx1xsprites_29
+    21300060: mmx1xsprites_30
+    21300062: mmx1xsprites_31
+    21300064: mmx1xsprites_32
+    21300066: mmx1xsprites_33
+    21300068: mmx1xsprites_34
+    21300070: mmx1xsprites_35
+    21300072: mmx1xsprites_36
+    21300074: mmx1xsprites_37
+    21300076: mmx1xsprites_38
+    21300078: mmx1xsprites_39
+    21300080: mmx1xsprites_40
+    21300082: mmx1xsprites_41
+    21300084: mmx1xsprites_42
+    21300086: mmx1xsprites_43
+    21300088: mmx1xsprites_44
+    21300090: mmx1xsprites_45
+    21300092: mmx1xsprites_46
+    21300094: mmx1xsprites_47
+    21300096: mmx1xsprites_48
+    21300098: mmx1xsprites_49
+    21300100: mmx1xsprites_50
+    21300102: mmx1xsprites_51
+    21300104: mmx1xsprites_52
+    21300106: mmx1xsprites_53
+    21300108: mmx1xsprites_54
+    21300110: mmx1xsprites_55
+    21300112: mmx1xsprites_56
+    21300114: mmx1xsprites_57
+    21300116: mmx1xsprites_58
+    21300118: mmx1xsprites_59
+    21300120: mmx1xsprites_60
+    21300122: mmx1xsprites_61
+    21300124: mmx1xsprites_62
+    21300126: mmx1xsprites_63
+    21300128: mmx1xsprites_64
+    21300130: mmx1xsprites_65
+    21300132: mmx1xsprites_66
+    21300134: mmx1xsprites_67
+    21300136: mmx1xsprites_68
+    21300138: mmx1xsprites_69
+    21300140: mmx1xsprites_70
+    21300142: mmx1xsprites_71
+    21300144: mmx1xsprites_72
+    21300146: mmx1xsprites_73
+    21300148: mmx1xsprites_74
+    21300150: mmx1xsprites_75
+    21300152: mmx1xsprites_76
+    21300154: mmx1xsprites_77
+    21300156: mmx1xsprites_78
+    21300158: mmx1xsprites_79
+    21300160: mmx1xsprites_80
+    21300162: mmx1xsprites_81
+    21300164: mmx1xsprites_82
+    21300166: mmx1xsprites_83
+    21300168: mmx1xsprites_84
+    21300170: mmx1xsprites_85
+    21300172: mmx1xsprites_86
+    21300174: mmx1xsprites_87
+    21300176: mmx1xsprites_88
+    21300178: mmx1xsprites_89
+    21300180: mmx1xsprites_90
+    21300182: mmx1xsprites_91
+    21300184: mmx1xsprites_92
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx1xsprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 508
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 498
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 493
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 499
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 442
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 452
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 449
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 447
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 444
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 444
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 443
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 444
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 444
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 399
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 399
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 400
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 399
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 399
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 400
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 399
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 353
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 353
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 353
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 342
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 346
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 346
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 342
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 348
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 350
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 349
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 299
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 299
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 300
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 299
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 299
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 298
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_41
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 296
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_42
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 293
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 250
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 249
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 250
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 249
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 250
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 246
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 245
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 247
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 195
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 197
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 195
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 199
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 149
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_60
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 150
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 149
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 146
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 143
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 99
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 100
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 96
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_72
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 95
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 45
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_75
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 47
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_76
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 47
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_79
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 50
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_82
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 7
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 10
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 12
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_91
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmx1xsprites_92
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
