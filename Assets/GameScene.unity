@@ -6075,6 +6075,8 @@ GameObject:
   - component: {fileID: 2056581660}
   - component: {fileID: 2056581659}
   - component: {fileID: 2056581661}
+  - component: {fileID: 2056581663}
+  - component: {fileID: 2056581662}
   m_Layer: 0
   m_Name: abilius
   m_TagString: Untagged
@@ -6202,3 +6204,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b3d8030b6dc4ef4e85e2372e0608c94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!111 &2056581662
+Animation:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2056581656}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!95 &2056581663
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2056581656}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 24581a9e1cfab2d468873d3af3108b4e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
